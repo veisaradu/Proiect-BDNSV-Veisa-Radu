@@ -1,0 +1,26 @@
+History of Artificial Intelligence
+
+Artificial Intelligence (AI) has a rich history spanning several decades. The field was officially founded in 1956 at the Dartmouth Conference, where the term "artificial intelligence" was coined.
+
+Early Years (1950s-1960s):
+- Alan Turing proposed the Turing Test in 1950
+- First AI programs developed for theorem proving and game playing
+- High optimism about AI's potential
+
+AI Winter (1970s-1980s):
+- Limitations of early AI systems became apparent
+- Reduced funding and interest in AI research
+- Focus shifted to expert systems
+
+Revival (1990s-2000s):
+- Machine learning gained prominence
+- Deep Blue defeated chess champion Garry Kasparov
+- Increased computational power enabled new approaches
+
+Modern Era (2010s-present):
+- Deep learning revolutionized AI
+- Breakthroughs in computer vision, natural language processing
+- AI assistants, autonomous vehicles, and more
+- Large language models like GPT emerged
+
+Today, AI is transforming industries and society, with applications in healthcare, finance, transportation, and countless other domains.

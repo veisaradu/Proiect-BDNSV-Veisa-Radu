@@ -1,24 +1,7 @@
-# Python
+.env
+venv/
+.venv/
+env/
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
-
-# Virtual environment
-venv/
-.env/
-
-# Data (raw & processed)
-data/raw/*
-data/processed/*
-
-!data/raw/.gitkeep
-!data/processed/.gitkeep
-
-# HuggingFace cache
-.cache/
-.huggingface/
-
-# OS
-.DS_Store
-
+frontend/node_modules
