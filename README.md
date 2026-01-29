@@ -1,5 +1,8 @@
 # Proiect-BDNSV-Veisa-Radu
 
+# Link demo
+
+https://youtu.be/ur4-K19Y0aA
 
 # Semantic Search Engine with RAG
 
